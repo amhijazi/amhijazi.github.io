@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Health Systems Optimization | Amira Hijazi</title>
+    <title>Health Systems Optimization on Amira Hijazi</title>
     <link>https://amhijazi.github.io/tag/health-systems-optimization/</link>
-      <atom:link href="https://amhijazi.github.io/tag/health-systems-optimization/index.xml" rel="self" type="application/rss+xml" />
-    <description>Health Systems Optimization</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://amhijazi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Health Systems Optimization</title>
-      <link>https://amhijazi.github.io/tag/health-systems-optimization/</link>
-    </image>
-    
+    <description>Recent content in Health Systems Optimization on Amira Hijazi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amhijazi.github.io/tag/health-systems-optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vaccine Allocation</title>
       <link>https://amhijazi.github.io/project/vaccine-allocation/</link>
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://amhijazi.github.io/project/vaccine-allocation/</guid>
-      <description>&lt;h2 id=&#34;we-implement-a-compartmental-simulation-to-model-the-spread-of-seasonal-flu-in-north-carolina-we-consider-a-two-stage-vaccination-policy-to-approximate-the-current-vaccine-distribution-schedule-using-the-attack-rate-distribution-from-the-simulation-model-we-formulate-two-stage-risk-neutral-and-risk-averse-stochastic-programs-to-minimize-vaccination-costs-while-ensuring-a-high-likelihood-of-containing-the-disease-below-a-desired-attack-rate-threshold-we-use-sample-average-approximation-to-solve-this-model-the-results-demonstrate-the-cost-savings-and-vaccine-dose-savings-from-using-a-two-stage-stochastic-program&#34;&gt;We implement a compartmental simulation to model the spread of seasonal flu in North Carolina. We consider a two-stage vaccination policy to approximate the current vaccine distribution schedule. Using the attack rate distribution from the simulation model, we formulate two-stage risk-neutral and risk-averse stochastic programs to minimize vaccination costs while ensuring a high likelihood of containing the disease below a desired attack rate threshold. We use sample average approximation to solve this model. The results demonstrate the cost savings and vaccine dose savings from using a two-stage stochastic program.&lt;/h2&gt;
-</description>
+      <description>Risk-Averse Vaccine Allocation Using Stochastic Programming</description>
     </item>
     
   </channel>
